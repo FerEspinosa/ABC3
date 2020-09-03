@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="background_light">#FFFFFF</color>
+    <color name="color_jugador">#0071A2</color>
+    <color name="color_texto_puntaje">#B44614</color>
+</resources>
